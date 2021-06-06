@@ -35,7 +35,6 @@ document.addEventListener('DOMContentLoaded', function () {
                 bool ? 'block' : 'none';
         }
     });
-
     calendar.render();
 });
 
